@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://F:/资料/WorkSpace/day09/src/com/yq/day09/ReversalTest.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day09/src/com/yq/day09/StirngTest2.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day09/src/com/yq/day09/StringTest3.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day09/src/com/yq/day09/StringTest4.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day09/src/com/yq/day09/TransTest.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day09/src/com/yq/day09/TransTest2.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day10/src/com/yq/collection/AllTest.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day10/src/com/yq/collection/AllTest2.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day10/src/com/yq/collection/ArrayTest.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day10/src/com/yq/collection/CollectionTest1.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day10/src/com/yq/collection/ListTest2.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day10/src/com/yq/collection/TraversalTest.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day10作业/src/com/yq/test/test1.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day10作业/src/com/yq/test/test2.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day10作业/src/com/yq/test/test4.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day11/src/com/yq/genericity/ArgumentTest.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day11/src/com/yq/genericity/ForTest.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day11/src/com/yq/genericity/GenerFuncTest.java" charset="GBK" />
+    <file url="file://F:/资料/WorkSpace/day12/src/com/yq/classwork/HashSetTest2.java" charset="GBK" />
+  </component>
 </project>
